@@ -1,0 +1,12 @@
+# Generated credentials – never commit these
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
